@@ -222,7 +222,7 @@ header::before{
 
 /**********************MEDIA QUERIES**************************/
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 480px) and (min-width: 768px) {
     .column, .columnf {
         width: 100%;
         margin: 6px;
